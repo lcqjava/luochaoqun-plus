@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>luochaoqun-plus-ai-language</module>
+        <module>luochaoqun-plus-ai-ocr</module>
     </modules>
 
 
