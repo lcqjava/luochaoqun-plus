@@ -12,6 +12,16 @@
     <artifactId>luochaoqun-plus-ai-ocr</artifactId>
 
     <dependencies>
+
+        <!-- sim_china char 2 pingying -->
+        <dependency>
+            <groupId>com.belerweb</groupId>
+            <artifactId>pinyin4j</artifactId>
+            <version>2.5.0</version>
+        </dependency>
+
+
+        <!-- PDF 2 img -->
         <dependency>
             <groupId>org.apache.pdfbox</groupId>
             <artifactId>fontbox</artifactId>
