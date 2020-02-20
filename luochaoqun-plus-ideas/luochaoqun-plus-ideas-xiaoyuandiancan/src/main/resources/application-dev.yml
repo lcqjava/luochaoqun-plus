@@ -23,4 +23,7 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: true
 
-file-server-url: /Users/luochaoqun/Documents/file-server
+file:
+  upload:
+    url: /Users/luochaoqun/Documents/file-server
+    imgMaxSize: 10240

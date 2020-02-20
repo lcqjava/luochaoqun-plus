@@ -11,6 +11,7 @@
     <modules>
         <module>luochaoqun-plus-ai</module>
         <module>luochaoqun-plus-ideas</module>
+        <module>luochaoqun-plus-demo</module>
     </modules>
 
     <properties>
